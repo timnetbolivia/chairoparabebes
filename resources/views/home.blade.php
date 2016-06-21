@@ -5,10 +5,13 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
-                <div class="panel-heading">Ingreso</div>
+                <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    pagina de inicio preaplicacion.
+                    <center> BIENVENIDO A PARACELSO</center>
+                    
+                        <img src="internacion.jpg" />
+                    
                 </div>
             </div>
         </div>
